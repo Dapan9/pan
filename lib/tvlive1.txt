@@ -1,5 +1,0 @@
-综合,#genre#
-CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-CCTV1,http://124.222.142.65:5678/zhibo/index.php?id=cctv1
-CCTV2,http://124.222.142.65:5678/zhibo/index.php?id=cctv2
