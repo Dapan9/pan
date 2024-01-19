@@ -1,43 +1,6 @@
 综合,#genre#
 CCTV13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-CCTV1,http://124.222.142.65:5678/zhibo/index.php?id=cctv1
-CCTV2,http://124.222.142.65:5678/zhibo/index.php?id=cctv2
-CCTV3,http://124.222.142.65:5678/zhibo/index.php?id=cctv3
-CCTV4,http://124.222.142.65:5678/zhibo/index.php?id=cctv4
-CCTV5,http://124.222.142.65:5678/zhibo/index.php?id=cctv5
-CCTV6,http://124.222.142.65:5678/zhibo/index.php?id=cctv6
-CCTV7,http://124.222.142.65:5678/zhibo/index.php?id=cctv7
-CCTV8,http://124.222.142.65:5678/zhibo/index.php?id=cctv8
-CCTV9,http://124.222.142.65:5678/zhibo/index.php?id=cctv9
-CCTV10,http://124.222.142.65:5678/zhibo/index.php?id=cctv10
-CCTV11,http://124.222.142.65:5678/zhibo/index.php?id=cctv11
-CCTV12,http://124.222.142.65:5678/zhibo/index.php?id=cctv12
-CCTV13,http://124.222.142.65:5678/zhibo/index.php?id=cctv13
-CCTV14,http://124.222.142.65:5678/zhibo/index.php?id=cctv14
-CCTV15,http://124.222.142.65:5678/zhibo/index.php?id=cctv15
-CCTV17,http://124.222.142.65:5678/zhibo/index.php?id=cctv17
-CCTV5+,http://124.222.142.65:5678/zhibo/index.php?id=cctv5p
-
-东方卫视,http://124.222.142.65:5678/zhibo/index.php?id=dfws
-重庆卫视,http://124.222.142.65:5678/zhibo/index.php?id=cqws
-吉林卫视,http://124.222.142.65:5678/zhibo/index.php?id=jlws
-辽宁卫视,http://124.222.142.65:5678/zhibo/index.php?id=lnws
-内蒙古卫视,http://124.222.142.65:5678/zhibo/index.php?id=nmws
-宁夏卫视,http://124.222.142.65:5678/zhibo/index.php?id=nxws
-甘肃卫视,http://124.222.142.65:5678/zhibo/index.php?id=gsws
-青海卫视,http://124.222.142.65:5678/zhibo/index.php?id=qhws
-陕西卫视,http://124.222.142.65:5678/zhibo/index.php?id=sxws
-山东卫视,http://124.222.142.65:5678/zhibo/index.php?id=sdws
-湖北卫视,http://124.222.142.65:5678/zhibo/index.php?id=hubws
-湖南卫视,http://124.222.142.65:5678/zhibo/index.php?id=hunws
-江西卫视,http://124.222.142.65:5678/zhibo/index.php?id=jxws
-江苏卫视,http://124.222.142.65:5678/zhibo/index.php?id=jsws
-大湾区卫视,http://124.222.142.65:5678/zhibo/index.php?id=dwqws
-广东卫视,http://124.222.142.65:5678/zhibo/index.php?id=gdws
-四川卫视,http://124.222.142.65:5678/zhibo/index.php?id=scws
-西藏卫视,http://124.222.142.65:5678/zhibo/index.php?id=xzws
-海南卫视,http://124.222.142.65:5678/zhibo/index.php?id=xjws
 
 IPV6央视,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -59,7 +22,6 @@ CCTV-15 音乐,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/
 CCTV-16 奥林匹克,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV-16 奥林匹克 4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 IPV6地方卫视,#genre#
@@ -100,14 +62,9 @@ IPV6地方卫视,#genre#
 兵团卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
 厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-
 
 咪咕移动,#genre#
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
-CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
 CCTV2,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
 CCTV3,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
 CCTV4,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
@@ -132,7 +89,6 @@ CGTN纪录,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
 东南卫视,http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8
 甘肃卫视,http://39.134.66.66/PLTV/88888888/224/3221225584/index.m3u8
 贵州卫视,http://39.134.66.66/PLTV/88888888/224/3221225576/index.m3u8
-哈尔滨新闻综合,http://39.134.66.66/PLTV/88888888/224/3221225684/index.m3u8
 海南卫视,http://39.134.66.66/PLTV/88888888/224/3221225530/index.m3u8
 河北卫视,http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
 湖北卫视,http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
@@ -151,9 +107,3 @@ CGTN纪录,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
 新疆卫视,http://39.134.66.66/PLTV/88888888/224/3221225582/index.m3u8
 浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225514/index.m3u8
 中国教育1,http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8
-
-
-
-
-
-
