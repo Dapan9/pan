@@ -1,0 +1,12 @@
+其它,#genre#
+大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
+大湾区卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
+大湾区卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
+
+广东,#genre#
+广东珠江,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+广东新闻,http://iptv.eatuo.com:9901/tsfile/live/1002_1.m3u8
+
+广西,#genre#
+广西影视,http://39.135.32.29:6610/PLTV/77777777/224/3221226298/index.m3u8?
