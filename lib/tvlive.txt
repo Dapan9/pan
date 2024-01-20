@@ -119,7 +119,7 @@ CGTN,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
 浙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225928/index.m3u8
 安徽卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8
 安徽卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
-番茄卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225942/index.m3u8
+东方卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225942/index.m3u8
 湖南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 湖南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225919/index.m3u8
 湖北卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225721/index.m3u8
