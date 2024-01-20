@@ -1,6 +1,6 @@
 
-https://s2.pub/pantv
-https://github.moeyy.xyz/raw.githubusercontent.com/Dapan9/pan/main/fty.json
+https://github.moeyy.xyz/raw.githubusercontent.com/Dapan9/pan/main/pan.json
+
 
 https://github.moeyy.xyz/raw.githubusercontent.com/Dapan9/pan/main/lib/tvlive.txt
 
