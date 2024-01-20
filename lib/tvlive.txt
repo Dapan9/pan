@@ -170,7 +170,7 @@ CGTN,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
 三沙卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226315/index.m3u8
 康巴卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226270/index.m3u8
 安多卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226271/index.m3u8
-广西地区（移动）,#genre#
+广西地区,#genre#
 广西都市,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226295/index.m3u8
 南宁新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226281/index.m3u8
 南宁文旅生活,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226288/index.m3u8
