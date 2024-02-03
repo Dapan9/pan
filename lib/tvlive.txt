@@ -52,7 +52,9 @@ CGTN,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
 广东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 广东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225913/index.m3u8
 广东珠江,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+广东珠江,http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225717/index.m3u8
 大湾区卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
+大湾区卫视,http://39.135.46.246:6610/PLTV/77777777/224/3221225748/index.m3u8?
 深圳卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225725/index.m3u8
 深圳卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225951/index.m3u8
 浙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
